@@ -1,0 +1,5 @@
+file = open("students.txt", "w")
+file.write("James, Python\n")
+file.write("Smith, Python\n")
+file.write("Alice, PySpark\n")
+file.close()
