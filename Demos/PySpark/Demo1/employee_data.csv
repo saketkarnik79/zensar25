@@ -1,0 +1,16 @@
+EmployeeID,Name,Department,Designation,Salary,JoiningDate,City
+101,Amit Sharma,IT,Developer,55000,2024-01-15,Pune
+102,Neha Patel,HR,HR Executive,40000,2024-02-10,Mumbai
+103,Rahul Verma,IT,Senior Developer,75000,2024-03-12,Pune
+104,Priya Shah,Finance,Accountant,50000,2024-03-25,Mumbai
+105,Rohan Mehta,Sales,Sales Executive,45000,2024-04-05,Delhi
+106,Kiran Singh,HR,HR Manager,65000,2024-04-18,Pune
+107,Sneha Joshi,IT,Developer,60000,2024-05-11,Mumbai
+108,Vijay Kumar,Finance,Finance Manager,90000,2024-05-20,Delhi
+109,Anita Rao,Sales,Sales Manager,75000,2024-06-15,Pune
+110,Raj Patel,IT,Technical Lead,90000,2024-06-22,Mumbai
+111,Pooja Sharma,Sales,Sales Executive,48000,2024-07-08,Delhi
+112,Arun Mehta,Finance,Accountant,52000,2024-07-19,Pune
+113,Meena Shah,HR,HR Executive,42000,2024-08-10,Mumbai
+114,Ajay Kumar,IT,Developer,58000,2024-08-25,Delhi
+115,Riya Patel,Sales,Sales Executive,47000,2024-09-14,Pune

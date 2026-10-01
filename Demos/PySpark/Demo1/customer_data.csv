@@ -1,0 +1,12 @@
+CustomerID,Name,Age,Email,Phone,City,Gender
+101,"  amit sharma  ",25,amit@gmail.com,98765-43210,Pune,Male
+102,NEHA PATEL,30,neha@gmail.com,98765 12345,Mumbai,Female
+103,rahul verma,,rahul@gmail.com,9876543212,Delhi,Male
+104,Priya Shah,32,priyagmail.com,9876543213,pune,Female
+105,Rohan Mehta,150,rohan@gmail.com,9876543214,MUMBAI,Male
+106,KIRAN SINGH,28,kiran@gmail.com,98765-43215,,Female
+107," sneha joshi ",27,sneha@gmail.com,98765 43216,PUNE,F
+108,Vijay Kumar,35,vijay@,9876543217,Delhi,M
+108,Vijay Kumar,35,vijay@,9876543217,Delhi,M
+109,Anita Rao,29,anita@gmail.com,1234,Mumbai,Female
+110,RAJ PATEL,-5,raj@gmail.com,9876543219,Pune,Male

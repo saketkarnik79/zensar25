@@ -1,0 +1,2 @@
+ValidationCheck,BeforeCleaning,AfterCleaning,Status
+Duplicate Customer IDs,1,0,PASS

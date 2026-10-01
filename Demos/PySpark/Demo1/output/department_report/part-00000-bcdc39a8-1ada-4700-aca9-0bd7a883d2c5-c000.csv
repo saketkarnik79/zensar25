@@ -1,0 +1,5 @@
+Department,TotalEmployees,TotalSalaryCost,AverageSalary,LowestSalary,HighestSalary
+IT,5,338000,67600.0,55000,90000
+Sales,4,215000,53750.0,45000,75000
+Finance,3,192000,64000.0,50000,90000
+HR,3,147000,49000.0,40000,65000

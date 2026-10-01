@@ -1,0 +1,2 @@
+ValidationCheck,BeforeCleaning,AfterCleaning,Status
+Invalid Phone Formats,Not checked before normalization,0,PASS
