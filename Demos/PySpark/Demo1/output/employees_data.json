@@ -1,0 +1,3 @@
+{"EmployeeID":101,"Name":"Amit","Department":"IT","Address":{"City":"Pune","State":"Maharashtra"}}
+{"EmployeeID":102,"Name":"Neha","Department":"HR","Address":{"City":"Mumbai","State":"Maharashtra"}}
+{"EmployeeID":103,"Name":"Rahul","Department":"IT","Address":{"City":"Delhi","State":"Delhi"}}
